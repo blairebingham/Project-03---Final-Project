@@ -19,6 +19,11 @@ The primary objective is to create a visually appealing, two-page static website
 - **Contact Form**: Functional backend or email submission.
 - **Online Ordering**: E-commerce functionality or shopping carts.
 - **JavaScript**: Interactive elements like pop-ups.
+## **Feedback Loops**
+Instructor provided announcements and online peer reviews to ensure proper execution of the project.
+## **People Resources**
+- Blaire - Project Lead
+- Professor Whalen - Course Instructor
 ## **Priorities**
 1. **Quality**: must follow rubric and have all requested files properly formatted and linked to Github.
 2. **Time**: must be submitted by the project deadline.
