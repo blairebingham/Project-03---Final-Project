@@ -9,6 +9,10 @@ A simple two-page website for the fictional business, "The Coffee Nook", built a
 - **Homepage (`index.html`)**: Features a welcoming hero section and a list of daily specials.
 - **About Page (`about.html`)**: Contains the business origin story and an HTML table for store hours.
 - **Navigation**: A consistent menu bar that allows seamless jumping between pages.
+## Tech Stack
+- **HTML5**: For semantic structure.
+- **GitHub Pages**: For free web hosting.
+- **VS Code**: The primary code editor used for development.
 ## Development Setup 
 This setup is used for local development and site maintenance. 
 ### Prerequisites 
