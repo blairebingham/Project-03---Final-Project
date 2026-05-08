@@ -1,7 +1,9 @@
 # Project 03 - Final Project
 This is the live source code for a fictional business website, hosted on Github.
 
-Live Site: 
+**Live Site:** (https://blairebingham.github.io/Project-03-Final-Project/) 
+
+**Docs:** (https://github.com/blairebingham/Project-03-Final-Project/tree/main/docs)
 
 ## Project Purpose 
 A simple two-page website for the fictional business, "The Coffee Nook", built as a starter project to practice HTML structure, internal linking, and Github deployment.
